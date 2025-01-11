@@ -10,5 +10,6 @@ This project demonstrates a robust ensemble of decision trees tailored for imbal
   - **1:10 Imbalance**: 124 correct minority classifications out of 137 instances.
 ## Results
 While effective for moderate imbalance, extreme imbalance (1:20) shows limitations, behaving as a random classifier on the ROC curve.
+
 ---
 Thank you for exploring this project!
